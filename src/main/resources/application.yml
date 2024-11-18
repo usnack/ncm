@@ -1,3 +1,12 @@
 spring:
     application:
         name: ncm
+
+notion:
+    base-url: https://api.notion.com/v1
+    version: 2022-06-28
+
+logging:
+    level:
+        root: info
+        io.usnack: debug
