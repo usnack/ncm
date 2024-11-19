@@ -1,6 +1,6 @@
 package io.usnack.ncm.whoedit.service;
 
-import io.usnack.ncm.whoedit.service.dto.data.BlockEditLogDto;
+import io.usnack.ncm.whoedit.service.dto.BlockEditLogDto;
 
 import java.util.List;
 

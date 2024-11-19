@@ -1,4 +1,4 @@
-package io.usnack.ncm.whoedit.service.dto.data;
+package io.usnack.ncm.whoedit.service.dto;
 
 import java.time.ZonedDateTime;
 

@@ -1,8 +1,7 @@
 package io.usnack.ncm.whoedit.controller;
 
-import io.usnack.ncm.whoedit.domain.BlockEditLog;
 import io.usnack.ncm.whoedit.service.WhoEditService;
-import io.usnack.ncm.whoedit.service.dto.data.BlockEditLogDto;
+import io.usnack.ncm.whoedit.service.dto.BlockEditLogDto;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

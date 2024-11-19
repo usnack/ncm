@@ -1,6 +1,9 @@
 spring:
     application:
         name: ncm
+    profiles:
+        include:
+            - secret
 
 notion:
     base-url: https://api.notion.com/v1

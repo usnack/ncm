@@ -3,7 +3,7 @@ package io.usnack.ncm.whoedit.service.basic;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import io.usnack.ncm.whoedit.service.WhoEditService;
-import io.usnack.ncm.whoedit.service.dto.data.BlockEditLogDto;
+import io.usnack.ncm.whoedit.service.dto.BlockEditLogDto;
 import io.usnack.ncm.whoedit.util.mapper.BlockEditLogMapper;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.HttpHeaders;
